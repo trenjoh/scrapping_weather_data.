@@ -1,2 +1,2 @@
-# web-scrapping_weather-data.
-A program to scrap temperature data for weather forecast from the meteorolgy department of kenya for  for different counties across the land.
+
+This project is a Python-based scraper designed to collect temperature and weather forecast data for counties across Kenya from the Kenya Meteorological Department. By automating the extraction of climate information from official sources, it helps users gather, organize, and analyze weather trends for different regions in a simple and efficient way. The tool is particularly useful for anyone interested in monitoring weather conditions, comparing county-level temperatures, or building data-driven insights from meteorological records.
